@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lucidapp/static/css/main.47135dd3.chunk.css",
+    "main.js": "/lucidapp/static/js/main.7134a528.chunk.js",
+    "main.js.map": "/lucidapp/static/js/main.7134a528.chunk.js.map",
+    "runtime-main.js": "/lucidapp/static/js/runtime-main.cf1fcfe2.js",
+    "runtime-main.js.map": "/lucidapp/static/js/runtime-main.cf1fcfe2.js.map",
+    "static/js/2.3be0a514.chunk.js": "/lucidapp/static/js/2.3be0a514.chunk.js",
+    "static/js/2.3be0a514.chunk.js.map": "/lucidapp/static/js/2.3be0a514.chunk.js.map",
+    "static/js/3.34e5791f.chunk.js": "/lucidapp/static/js/3.34e5791f.chunk.js",
+    "static/js/3.34e5791f.chunk.js.map": "/lucidapp/static/js/3.34e5791f.chunk.js.map",
+    "index.html": "/lucidapp/index.html",
+    "precache-manifest.141360c4a2617e526319770f564210c5.js": "/lucidapp/precache-manifest.141360c4a2617e526319770f564210c5.js",
+    "service-worker.js": "/lucidapp/service-worker.js",
+    "static/css/main.47135dd3.chunk.css.map": "/lucidapp/static/css/main.47135dd3.chunk.css.map",
+    "static/js/2.3be0a514.chunk.js.LICENSE.txt": "/lucidapp/static/js/2.3be0a514.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf1fcfe2.js",
+    "static/js/2.3be0a514.chunk.js",
+    "static/css/main.47135dd3.chunk.css",
+    "static/js/main.7134a528.chunk.js"
+  ]
+}
