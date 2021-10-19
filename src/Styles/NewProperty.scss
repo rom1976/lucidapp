@@ -1,0 +1,9 @@
+.xpand{
+    margin-left:30px;
+    height: 0px;
+    opacity: 0;
+   // transition-property: height opacity;
+    transition:opacity .5s, 1s;
+    border:2px solid rgb(185, 184, 184)
+  
+}
